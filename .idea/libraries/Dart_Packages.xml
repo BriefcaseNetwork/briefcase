@@ -1,0 +1,28 @@
+<component name="libraryTable">
+  <library name="Dart Packages" type="DartPackagesLibraryType">
+    <properties>
+      <option name="packageNameToDirsMap">
+        <entry key="lints">
+          <value>
+            <list>
+              <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/lints-1.0.1/lib" />
+            </list>
+          </value>
+        </entry>
+        <entry key="messagepack">
+          <value>
+            <list>
+              <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/messagepack-0.2.1/lib" />
+            </list>
+          </value>
+        </entry>
+      </option>
+    </properties>
+    <CLASSES>
+      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/lints-1.0.1/lib" />
+      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/messagepack-0.2.1/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

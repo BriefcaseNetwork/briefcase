@@ -1,0 +1,13 @@
+name: briefcase
+description: An experimental peer-to-peer network.
+version: 0.0.1
+# homepage: ...
+
+environment:
+  sdk: '>=2.14.4 <3.0.0'
+
+dependencies:
+ messagepack: ^0.2.1
+
+dev_dependencies:
+  lints: ^1.0.0
