@@ -44,7 +44,7 @@ class BriefcaseServer {
     // Listen for new sockets, and when one connects, accept the connection
     // by passing it to the connection handler.
     server._socketStreams!.stream
-        .listen((socket) => ConnectionHandler.accept(socket));
+        .listen((socket) => ConnectionHandler(socket: socket).accept());
 
     return server;
   }
